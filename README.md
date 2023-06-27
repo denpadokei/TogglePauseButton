@@ -1,0 +1,2 @@
+# TogglePauseButton
+ポーズボタンの挙動がくそだったのをいい感じにするMod
